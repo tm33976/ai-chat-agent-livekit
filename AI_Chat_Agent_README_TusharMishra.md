@@ -3,8 +3,6 @@
 This project demonstrates a **real-time conversational AI chat agent** built using **LiveKit’s Agents SDK** and a **React (Next.js)** frontend.  
 It enables two-way chat communication via **WebRTC data channels**, eliminating the need for traditional HTTP streaming.  
 
-
-
 ---
 
 ## 🚀 Project Overview
